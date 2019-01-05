@@ -1,8 +1,8 @@
 ---
 description: >-
-  Welcome to ZeroNet, the P2P/distributed and anti-censorship free web hosting,
-  that supports user signup/login using JS+MySQL without PHP. Make your
-  site/app/service online 24/7 with 100% uptime.
+Добро пожаловать в ZeroNet, P2P/распределенный и бесплатный антицензурный веб-хостинг, 
+который поддерживает регистрацию/вход пользователя с использованием JS + MySQL без PHP. 
+site/app/service online 24/7 with 100% uptime.
 ---
 
 # Introduction
